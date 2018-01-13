@@ -9,11 +9,11 @@
             <DoNotOpenServerManagerAtLogon>true</DoNotOpenServerManagerAtLogon>
         </component>
         <component name="Microsoft-Windows-International-Core" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-            <InputLocale>de-De</InputLocale>
-            <SystemLocale>de-De</SystemLocale>
+            <InputLocale>en-Us</InputLocale>
+            <SystemLocale>en-Us</SystemLocale>
             <UILanguage>en-Us</UILanguage>
             <UILanguageFallback>en-Us</UILanguageFallback>
-            <UserLocale>de-De</UserLocale>
+            <UserLocale>en-Us</UserLocale>
         </component>
         <component name="Microsoft-Windows-Shell-Setup" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
             <AutoLogon>
@@ -72,11 +72,11 @@
             <RegisteredOrganization>labbuildr6 image 11/14/2016</RegisteredOrganization>
         </component>
         <component name="Microsoft-Windows-International-Core" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-            <InputLocale>de-De</InputLocale>
-            <SystemLocale>de-De</SystemLocale>
+            <InputLocale>en-Us</InputLocale>
+            <SystemLocale>en-Us</SystemLocale>
             <UILanguage>en-Us</UILanguage>
-            <UILanguageFallback>de-De</UILanguageFallback>
-            <UserLocale>de-De</UserLocale>
+            <UILanguageFallback>en-Us</UILanguageFallback>
+            <UserLocale>en-Us</UserLocale>
         </component>
     </settings>
     <settings pass="generalize">
