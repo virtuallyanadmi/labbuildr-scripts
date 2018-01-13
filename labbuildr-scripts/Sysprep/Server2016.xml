@@ -24,7 +24,7 @@
                 <Enabled>true</Enabled>
                 <Username>Administrator</Username>
             </AutoLogon>
-            <RegisteredOrganization>labbuildr6 image 11/14/2016</RegisteredOrganization>
+            <RegisteredOrganization>VAA</RegisteredOrganization>
             <ShowWindowsLive>false</ShowWindowsLive>
         </component>
     </settings>
