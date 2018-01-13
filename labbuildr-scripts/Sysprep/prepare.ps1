@@ -71,6 +71,7 @@ Start-Process "c:\windows\system32\Dism.exe" -ArgumentList $DISM_Param2 -Wait
 
 
 write-host "Generating Answerfile with Locale $Locale"
+$Version = 'Server2016'
 $Content = get-content "$Builddir\$Version.xml"
 foreach ($Pattern in ('InputLocale','SystemLocale','UserLocale','UILanguage'))
     {     
